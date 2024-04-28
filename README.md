@@ -7,4 +7,3 @@ Self-attention based neural network for full-waveform echo decomposition
 
 Readers are encouraged to consult this code and adapt it to real-world applications by setting the function parameters via stochastic processes, thereby facilitating the creation of tailored waveform training datasets.
 
-###### The Codes will be implemented soon.
